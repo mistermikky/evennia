@@ -1,6 +1,7 @@
 # Evennia dependencies
 
 # general
+# modified by mike
 django >= 2.2.5, < 2.3
 twisted >= 19.2.1, < 20.0.0
 pytz
@@ -19,3 +20,4 @@ black
 
 # windows-specific
 pypiwin32;platform_system=="Windows"
+
